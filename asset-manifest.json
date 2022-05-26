@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/class-based-todo/static/css/main.c7ec3132.css",
+    "main.js": "/class-based-todo/static/js/main.0cd03e28.js",
+    "index.html": "/class-based-todo/index.html",
+    "main.c7ec3132.css.map": "/class-based-todo/static/css/main.c7ec3132.css.map",
+    "main.0cd03e28.js.map": "/class-based-todo/static/js/main.0cd03e28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.0cd03e28.js"
+  ]
+}
